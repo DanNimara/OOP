@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1587418594 source:d:\[facultate]\poo\proiect 2\biblioteca\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"biblioteca.h"
+
+1587418546 source:d:\[facultate]\poo\proiect 2\biblioteca\src\biblioteca.cpp
+	"biblioteca.h"
+	<typeinfo>
+
+1587484044 d:\[facultate]\poo\proiect 2\biblioteca\include\biblioteca.h
+	<iostream>
+	<string>
+
+1587418594 source:d:\[facultate]\poo\proiecte\proiect 2\biblioteca\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"biblioteca.h"
+
+1587484044 d:\[facultate]\poo\proiecte\proiect 2\biblioteca\include\biblioteca.h
+	<iostream>
+	<string>
+

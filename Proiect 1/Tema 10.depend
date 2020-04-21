@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1584390039 source:d:\1facultate\poo\laborator 2\tema 10\listadubluinlantuita.cpp
+	"listadubluinlantuita.h"
+
+1584387811 d:\1facultate\poo\laborator 2\tema 10\listadubluinlantuita.h
+	<iostream>
+
+1584389480 source:d:\1facultate\poo\laborator 2\tema 10\main.cpp
+	<iostream>
+	"listadubluinlantuita.h"
+
