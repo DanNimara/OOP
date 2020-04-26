@@ -23,3 +23,17 @@
 	<iostream>
 	<string>
 
+1587926811 source:d:\[facultate]\poo\proiecte\oop\proiect 2\biblioteca\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"biblioteca.h"
+
+1587926834 d:\[facultate]\poo\proiecte\oop\proiect 2\biblioteca\include\biblioteca.h
+	<iostream>
+	<string>
+
+1587926896 source:d:\[facultate]\poo\proiecte\oop\proiect 2\biblioteca\src\biblioteca.cpp
+	"biblioteca.h"
+	<typeinfo>
+

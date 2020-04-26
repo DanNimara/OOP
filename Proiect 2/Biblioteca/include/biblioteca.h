@@ -126,14 +126,14 @@ class Biblioteca{
         ~Biblioteca();
         int getNr_ord();
         void setNr_ord(int nr_ord);
-        void redimensionare(int dim);  ///nou
-        void AdaugareInformatie(string tip); ///nou
+        void redimensionare(int dim);
+        void AdaugareInformatie(string tip);
         bool CautaInformatie(const Text& obj);
         bool CautaInformatie(const Numeric& obj);
         bool CautaInformatie(const Matematic& obj);
         bool CautaInformatie(const Adresa& obj);
-        void Stergere_ID(int ID); ///nou
-        void Stergere_Nume(string nume); ///nou
+        void Stergere_ID(int ID, int apel);
+        void Stergere_Nume(string nume);
         int CautaID(int ID);
         int CautaNume(string Nume);
         friend istream& operator>>(istream& in, Biblioteca& obj);
