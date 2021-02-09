@@ -1,3 +1,5 @@
+//Proiect 1 - Tema 7
+
 #ifndef LISTADUBLUINLANTUITA_H
 #define LISTADUBLUINLANTUITA_H ///include guard
 #include <iostream>
